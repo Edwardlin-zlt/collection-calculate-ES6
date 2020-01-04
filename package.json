@@ -4,6 +4,22 @@
     "test-single": "jasmine-node --verbose "
   },
   "dependencies": {
-    "jasmine-node": "1.14.5"
-  }
+    "jasmine-node": "1.14.5",
+    "eslint": "^6.7.2",
+    "prettier": "^1.19.1"
+  },
+  "name": "collection-calculate-camp-2020-1-3-1-57-9-561",
+  "description": "## 使用简介",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edwardlin-zlt/collection-calculate-camp-2020-1-3-1-57-9-561.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edwardlin-zlt/collection-calculate-camp-2020-1-3-1-57-9-561/issues"
+  },
+  "homepage": "https://github.com/Edwardlin-zlt/collection-calculate-camp-2020-1-3-1-57-9-561#readme"
 }

@@ -13,4 +13,3 @@ describe('collect_all_even', function () {
     expect(result).toEqual(collection_b);
   });
 });
-
