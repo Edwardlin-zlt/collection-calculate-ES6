@@ -5,7 +5,6 @@ function grouping_count(collection) {
   var result = {};
   for (var i = 0; i < collection.length; i++) {
     var key = collection[i];
-    console.log(result[key]);
     if (!result[key]) {
       result[key] = 1;
     } else {
